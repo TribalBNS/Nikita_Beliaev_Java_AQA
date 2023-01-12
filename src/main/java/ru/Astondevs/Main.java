@@ -36,7 +36,7 @@ public class Main {
         String name = sc.nextLine();
         System.out.println(name);
         if (name.equalsIgnoreCase("Вячеслав"))
-            System.out.println("Привет, " + name);
+            System.out.println("Привет, Вячеслав");
         else
             System.out.println("Нет такого имени");
     }
