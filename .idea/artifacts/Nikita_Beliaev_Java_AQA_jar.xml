@@ -1,0 +1,8 @@
+﻿<component name="ArtifactManager">
+  <artifact type="jar" name="Nikita_Beliaev_Java_AQA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Nikita_Beliaev_Java_AQA_jar</output-path>
+    <root id="archive" name="Nikita_Beliaev_Java_AQA.jar">
+      <element id="module-output" name="Nikita_Beliaev_Java_AQA.main" />
+    </root>
+  </artifact>
+</component>
