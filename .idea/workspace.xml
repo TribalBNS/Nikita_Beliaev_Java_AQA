@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98e0581c-9ba0-4d83-8da9-96b193eff7c2" name="Changes" comment="Polished the project a bit.">
-      <change beforePath="$PROJECT_DIR$/Nikita_Beliaev_Java_AQA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Nikita_Beliaev_Java_AQA.jar" afterDir="false" />
-    </list>
+    <list default="true" id="98e0581c-9ba0-4d83-8da9-96b193eff7c2" name="Changes" comment="Polished the project a bit." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -226,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673536334786</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Polished the project a bit.">
+      <created>1673536495094</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673536495094</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
