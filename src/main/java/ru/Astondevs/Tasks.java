@@ -26,7 +26,6 @@ public class Tasks {
     public static void taskTwo() {
         System.out.print("Task 2. Enter a name: ");
         String name = Main.sc.nextLine();
-        System.out.println(name);
         if (name.equals("Вячеслав"))
             System.out.println("Привет, " + name);
         else
